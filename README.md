@@ -2,7 +2,9 @@
 **This is where I explore and make something absurd**
 
 ## My Public Keys
-```$ curl -s https://github.com/zxyvyx.gpg | gpg --import```
+```
+$ curl -s https://github.com/zxyvyx.gpg | gpg --import
+```
 
 <!--
 **zxyvyx/zxyvyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
